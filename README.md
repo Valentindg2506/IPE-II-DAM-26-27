@@ -1,65 +1,25 @@
-# 💼 IPE II
+# IPE II · DAM 26/27
 
-Repositorio con mis **notas, apuntes y ejercicios de clase** de la asignatura **Itinerario Personal para la Empleabilidad II (IPE II)** de 2º de DAM.
+Apuntes y actividades de la asignatura **Itinerario Personal para la Empleabilidad II (IPE II)** de 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM), curso 2026/2027.
 
----
+## De qué trata la asignatura
 
-## 📖 Contenido
+IPE II prepara para el salto al mercado laboral: cómo buscar empleo en el sector, cómo presentarse (currículum, carta, perfil profesional), cómo afrontar una entrevista y cómo plantear el desarrollo profesional a medio plazo, incluida la opción de emprender.
 
-En este repositorio voy a ir guardando todo lo relacionado con la asignatura:
+## Qué hay en el repositorio
 
-* 📝 Apuntes de clase
-* 💼 Empleabilidad y orientación profesional
-* 📄 Currículum y búsqueda de empleo
-* 🗣️ Entrevistas de trabajo
-* 👔 Desarrollo profesional
-* 📊 Ejercicios y actividades
-* 📑 Trabajos realizados
-* 📚 Documentación complementaria
+| Carpeta | Contenido |
+|---|---|
+| `clases/001-La busqueda del empleo` | Fuentes de empleo, canales de búsqueda y cómo organizarla. |
+| `clases/` | Actividades de clase, como la preparación y análisis de una entrevista de trabajo. |
 
----
+El repositorio irá creciendo a lo largo del curso con nuevas unidades, actividades y trabajos.
 
-## 📂 Estructura
+## Para qué sirve
 
-```text
-IPE-II/
-│
-├── Apuntes/
-│   ├── Tema-1/
-│   ├── Tema-2/
-│   └── ...
-│
-├── Ejercicios/
-│
-├── Trabajos/
-│
-└── README.md
-```
+Es mi cuaderno de la asignatura y, a la vez, un apoyo práctico para mi propia búsqueda de prácticas y empleo como desarrollador.
 
-La estructura puede ir cambiando a medida que avance el curso.
+## Autor
 
----
-
-## 🎯 Objetivo
-
-El objetivo de este repositorio es tener todos mis apuntes y ejercicios de **IPE II** organizados en un único lugar y poder consultarlos fácilmente durante el curso.
-
-También sirve como respaldo de todo el trabajo realizado en clase.
-
----
-
-## 🛠️ Herramientas
-
-* Git
-* GitHub
-* Markdown
-* Herramientas utilizadas durante la asignatura
-
----
-
-## 👨‍💻 Autor
-
-**Valentín**
-
-Estudiante de **2º DAM**.
-
+**Valentín Antonio De Gennaro** · Estudiante de 2.º de DAM en Valencia
+[valentindg.com](https://valentindg.com) · [Portafolio](https://portafolio.valentindg.com) · [CV](https://cv.valentindg.com) · [LinkedIn](https://www.linkedin.com/in/valentindg)
